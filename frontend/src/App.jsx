@@ -31,7 +31,7 @@ const slides = [
     title: "Qui suis-je ?",
     text: (
       <>
-        Bonjour, je suis <span className="highlight" style={{ fontSize: '2.5rem' }}>Zakaria Aghir</span>,<br />
+        Bonjour, je suis <span className="highlight" style={{ fontSize: '2.5rem' }}>Zakarya irhir</span>,<br />
         un jeune développeur de 22 ans, diplômé en <strong>développement digital</strong>.
         <br /><br />
         <span className="highlight-gold">Expériences :</span><br />
