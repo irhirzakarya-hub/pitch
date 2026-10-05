@@ -6,7 +6,7 @@ const slides = [
   {
     id: 1,
     icon: <PieChart size={48} color="#ef4444" />,
-    title: "Le Choc des Chiffres",
+    title: "Les Chiffres",
     text: (
       <>
         <span className="highlight-red text-4xl">77%</span> des PME marocaines ne sont pas digitalisées.<br /><br />
